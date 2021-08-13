@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+body
+{
+    font-family: 'DotGothic16', sans-serif;
+    background-image: linear-gradient(to right, red, green )
+}
+h1
+{
+    display: flex;
+    justify-content: center;   
+}
+.coloro
+{
+    display: flex;
+    justify-content: center;
+}
+h2
+{
+    display: flex;
+    justify-content: center;
+}
+footer
+{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
